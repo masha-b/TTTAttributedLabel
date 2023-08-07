@@ -1,0 +1,3 @@
+module TTTAttributedLabel {
+	header "TTTAttributedLabel.h"
+}
